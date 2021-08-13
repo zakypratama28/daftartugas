@@ -1,2 +1,1 @@
-# daftartugas
-aplikasi android studio
+# aplikasi daftar tugas
